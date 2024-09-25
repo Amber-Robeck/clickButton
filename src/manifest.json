@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Click Button",
+  "description": "Extension for automating button clicking",
+  "version": "1.0"
+}
